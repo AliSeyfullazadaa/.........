@@ -1,0 +1,15 @@
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.csproj.AssemblyReference.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.AssemblyInfoInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.AssemblyInfo.cs
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.csproj.CoreCompileInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\bin\Debug\net6.0\FromCodeNov25-28.exe
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\bin\Debug\net6.0\FromCodeNov25-28.deps.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\bin\Debug\net6.0\FromCodeNov25-28.runtimeconfig.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\bin\Debug\net6.0\FromCodeNov25-28.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\bin\Debug\net6.0\FromCodeNov25-28.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\refint\FromCodeNov25-28.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\FromCodeNov25-28.genruntimeconfig.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\FromCodeNov25-28\obj\Debug\net6.0\ref\FromCodeNov25-28.dll
